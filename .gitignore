@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+face_cosmetics_by_product_benefits_private.ipynb
+face_cosmetics_by_product_details_private.ipynb
+shampoo_by_product_details_private.ipynb
+shampoo_by_product_name_private.ipynb
