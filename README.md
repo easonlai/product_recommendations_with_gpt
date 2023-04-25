@@ -1,4 +1,4 @@
-Product Recommendation by Azure OpenAI Embedding model (text-embedding-ada-002)
+# Product Recommendation by Azure OpenAI Embedding model (text-embedding-ada-002)
 
 In a previous repo [(Content Based Product Recommendation Samples)](https://github.com/easonlai/content_based_product_recommendation_samples), I showed how to use [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) to vectorize product key phrases and recommend products based on [cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity). Now, I have improved the demo by using [Azure OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview)’s Embedding model [(text-embedding-ada-002)](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/models#embeddings-models), which has a powerful [word embedding](https://openai.com/blog/new-and-improved-embedding-model) capability. This model can also vectorize product key phrases and recommend products based on cosine similarity, but with better results. You can find the updated repo here.
 
