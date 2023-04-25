@@ -7,9 +7,9 @@ TF-IDF is a statistical measure that assigns a weight to each word based on how 
 Content: 
 * \data\face_cosmetics_products_data.csv <-- Sample dataset of face cosmetics products from [Max Factor](https://www.maxfactor.com/en-gb).
 * \data\shampoo_products_data.csv <-- Sample dataset of hair shampoo products.
-* face_cosmetics_by_product_details.ipynb <-- Perform word embedding by Azure OpenAI Embedding model (text-embedding-ada-002) for the "Product Details" and provide product recommendations by cosine similarity.
-* face_cosmetics_by_product_benefits.ipynb <-- Perform word embedding by Azure OpenAI Embedding model (text-embedding-ada-002) for the "Product Benefits" and provide product recommendations by cosine similarity.
-* shampoo_by_product_details.ipynb <-- Perform word embedding by Azure OpenAI Embedding model (text-embedding-ada-002) for the "Product Details" and provide product recommendations by cosine similarity.
-* shampoo_by_product_details.ipynb <-- Perform word embedding by Azure OpenAI Embedding model (text-embedding-ada-002) for the "Product name" and provide product recommendations by cosine similarity.
+* [face_cosmetics_by_product_details.ipynb](https://github.com/easonlai/product_recommendations_with_gpt/blob/main/face_cosmetics_by_product_details.ipynb) <-- Perform word embedding by Azure OpenAI Embedding model (text-embedding-ada-002) for the "Product Details" and provide product recommendations by cosine similarity.
+* [face_cosmetics_by_product_benefits.ipynb](https://github.com/easonlai/product_recommendations_with_gpt/blob/main/face_cosmetics_by_product_benefits.ipynb) <-- Perform word embedding by Azure OpenAI Embedding model (text-embedding-ada-002) for the "Product Benefits" and provide product recommendations by cosine similarity.
+* [shampoo_by_product_details.ipynb](https://github.com/easonlai/product_recommendations_with_gpt/blob/main/shampoo_by_product_details.ipynb) <-- Perform word embedding by Azure OpenAI Embedding model (text-embedding-ada-002) for the "Product Details" and provide product recommendations by cosine similarity.
+* [shampoo_by_product_details.ipynb](https://github.com/easonlai/product_recommendations_with_gpt/blob/main/shampoo_by_product_name.ipynb) <-- Perform word embedding by Azure OpenAI Embedding model (text-embedding-ada-002) for the "Product name" and provide product recommendations by cosine similarity.
 
 Enjoy!
